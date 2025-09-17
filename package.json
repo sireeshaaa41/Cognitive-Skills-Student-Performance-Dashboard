@@ -1,0 +1,20 @@
+{
+  "name": "student-dashboard-project",
+  "version": "1.0.0",
+  "description": "- student_analysis.ipynb — data generation, correlation analysis, regression, clustering, export to students.json.\r - student-dashboard/ — Next.js dashboard that visualizes the dataset (bar, scatter, radar), searchable & sortable table, and insights panel.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^15.5.3",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "recharts": "^3.2.1"
+  }
+}
